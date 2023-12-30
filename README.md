@@ -1,6 +1,6 @@
 # Result
-![Result](./Readme Image/result1.png)
-![Result](./Readme Image/result2.png)
+![Result](./ReadmeImage/result1.png)
+![Result](./ReadmeImage/result2.png)
 
 
 
